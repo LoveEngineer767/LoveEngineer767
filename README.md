@@ -1,53 +1,69 @@
 
-# 💬 Talk with me
+<div align="center">
 
-💧 **Frontend:** React, Next.js, Remix, Vue, Angular, Redux, TailwindCSS, SCSS
+# 👋 Hi, I'm LoveEngineer767
 
-🔸 **Backend:** Node.js, ExpressJS, Nest.js, Django, Flask, Laravel
+### Senior AI Software Engineer | AI Systems Architect | Full-Stack Engineer
 
-🌟 **Languages:** JavaScript (ES6+), TypeScript, Python, Rust, Solidity, Go, PHP
+Building intelligent systems, scalable architectures, and production-ready software.
 
-🚀 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase, SQLite
+[![GitHub](https://img.shields.io/badge/GitHub-LoveEngineer767-181717?style=for-the-badge&logo=github)](https://github.com/LoveEngineer767)
 
-💥 **Smart Contract Development:** Solidity, Hardhat, Web3.js, Ethers.js
-
-🔧 **DevOps:** AWS, Microsoft Azure, Kubernetes, Nginx, Docker
-
-💡 **Others:** REST APIs, GraphQL, Jest, Webpack, Git
+</div>
 
 ---
 
-# 💫 My 🌟 BEST 🌟 SKILLS
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,angular,nodejs,express,nestjs" />
-</p>
+I'm a software engineer focused on building intelligent, scalable, and reliable software systems.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,rust,php,go,django,flask" />
-</p>
+My interests include:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,materialui" />
-</p>
+- 🤖 AI Engineering & Intelligent Applications
+- 🧠 Large Language Models (LLMs) & AI Integration
+- 🏗️ Software Architecture & System Design
+- ⚡ High-Performance Backend Engineering
+- ☁️ Cloud Infrastructure & Distributed Systems
+- 🔐 Secure, Maintainable & Production-Ready Software
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,redis" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,github,linux" />
-</p>
+I enjoy transforming complex engineering challenges into elegant, practical solutions.
 
 ---
 
-# 📫 Connect With Me
+## 💻 Core Programming Languages
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,ts,cs,java,ruby,go" />
 </p>
+
+| Language | Focus |
+|---|---|
+| 🐍 Python | AI Engineering, Backend & Automation |
+| 🔷 TypeScript | Full-Stack & Scalable Applications |
+| 💠 C# | Enterprise Software & Backend Systems |
+| ☕ Java | Enterprise & Distributed Systems |
+| 💎 Ruby | Backend & Web Development |
+| 🐹 Go | Cloud Services & High-Performance Systems |
+
+---
+
+## 🚀 Engineering Expertise
+
+### Artificial Intelligence
+- AI-Powered Applications
+- LLM Integration & Application Architecture
+- Intelligent Automation
+- AI System Design
+- AI Agents
+
+### Software Engineering
+- Clean Architecture & SOLID Principles
+- RESTful APIs & Distributed Systems
+- Microservices Architecture
+- Performance Optimization
+
+### Backend & Infrastructure
+- Scalable Backend Development
+- Database Design & Optimization
+- Cloud-Native Applications
+- CI/CD & DevOps
